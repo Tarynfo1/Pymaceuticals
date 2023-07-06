@@ -2,7 +2,11 @@
 
 Please see Pymaceuticals Final for final working code for this challenge. Please note at output 10 there is there an error in outputting the correct sentence structure for calculating the IQR, the caluclation is correct however the output could not be solved in time for the challenge completion. 
 
-Pymaceuticals challenge
+#Analysis
+- Overall the data in this study can be considered reliable as can be seen from the box plot diagram illustrating there is only 1 outlier
+- In all studies, Capomulin appear to have similar results to Ramicane and both are significantly more effective at reducing tumor size in mice than the other drugs compared Ceftamine and Infubinol
+- Capomulin is less effective in mice with greater weight as can be noted from the scatter plot diagram with a strong correlation displayed by the strong positive line in the linear regression chart
+- From the line graph diagram, we can also note two spikes in which the drug affects the tumor size dramatically.
 
 ## Acknowledgements
 
